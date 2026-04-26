@@ -33,7 +33,7 @@ UniConvert is a lightweight, fully offline desktop unit converter application de
 - ⌨️ Press ESC to clear all fields instantly
 - 🛡 Input validation — no crashes on invalid input
 - 🔢 Binary field restricted to only 0 and 1
-- 📦 Single file — 211 lines of clean code
+- 📦 Single file — 214 lines of clean code
 - 🌐 Fully offline — no internet required
 
 ---
