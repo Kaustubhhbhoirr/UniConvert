@@ -3,7 +3,7 @@
 
 ![Java](https://img.shields.io/badge/Java-SE21-orange)
 ![Swing](https://img.shields.io/badge/GUI-Java%20Swing-blue)
-![Lines](https://img.shields.io/badge/Lines%20of%20Code-21-green)
+![Lines](https://img.shields.io/badge/Lines%20of%20Code-214-green)
 ![Type](https://img.shields.io/badge/Type-Mini%20Project-purple)
 
 ---
